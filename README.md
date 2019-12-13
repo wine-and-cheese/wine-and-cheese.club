@@ -1,3 +1,9 @@
-## Wine and Cheese Club
+# Wine and Cheese Club
 
-The next meeting will happen on 21th November 2019. We will celebrate the Beaujolais Nouveau.
+## Sessions
+
+| Date       | Wine                                                     | By | Cheese                                                    | By | Bread    | By |
+|------------|----------------------------------------------------------|----|-----------------------------------------------------------|----|----------|----|
+| 2019-10-31 | ? - Bordeaux                                             | L  | Vacherin de brebis - Aveyron                              | N  | Baguette | M  |
+| 2019-11-21 | Beaujolais Nouveau - Beaujolais<br> Napoléon Brizi - Corse  | A  | Comté - Jura<br> Livarot - Normandie<br> Tomme au marc - Savoie | S  | Baguette | D  |
+|            |                                                          |    |                                                           |    |          |    |
